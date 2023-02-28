@@ -5,7 +5,7 @@
     <classes>
       <class name="com.freecrm.BaseTest.Base"/>
       <class name="com.freecrm.TestCase.LoginTest"/>
-      <class name="com.freecrm.TestCase.HomeTest"/>
+      <!--<class name="com.freecrm.TestCase.HomeTest"/> -->
       
     </classes>
   </test> <!-- Test -->

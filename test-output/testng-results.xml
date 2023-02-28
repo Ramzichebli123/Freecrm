@@ -1,71 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-21T10:33:56 WAT" name="Suite" finished-at="2023-02-21T10:35:41 WAT" duration-ms="104975">
+  <suite started-at="2023-02-28T13:47:00 WAT" name="Suite" finished-at="2023-02-28T13:47:42 WAT" duration-ms="41155">
     <groups>
     </groups>
-    <test started-at="2023-02-21T10:33:56 WAT" name="Test" finished-at="2023-02-21T10:35:41 WAT" duration-ms="104975">
-      <class name="com.freecrm.TestCase.HomeTest">
-        <test-method is-config="true" signature="beforAnnyTest()[pri:0, instance:com.freecrm.TestCase.HomeTest@5a45133e]" started-at="2023-02-21T10:34:49 WAT" name="beforAnnyTest" finished-at="2023-02-21T10:35:09 WAT" duration-ms="19825" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforAnnyTest -->
-        <test-method signature="addNewContact()[pri:0, instance:com.freecrm.TestCase.HomeTest@5a45133e]" started-at="2023-02-21T10:35:09 WAT" name="addNewContact" finished-at="2023-02-21T10:35:17 WAT" duration-ms="7918" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addNewContact -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.freecrm.TestCase.HomeTest@5a45133e]" started-at="2023-02-21T10:35:17 WAT" name="teardown" finished-at="2023-02-21T10:35:18 WAT" duration-ms="709" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="beforAnnyTest()[pri:0, instance:com.freecrm.TestCase.HomeTest@5a45133e]" started-at="2023-02-21T10:35:18 WAT" name="beforAnnyTest" finished-at="2023-02-21T10:35:36 WAT" duration-ms="18312" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforAnnyTest -->
-        <test-method signature="getAlertBox()[pri:0, instance:com.freecrm.TestCase.HomeTest@5a45133e]" started-at="2023-02-21T10:35:36 WAT" name="getAlertBox" finished-at="2023-02-21T10:35:39 WAT" duration-ms="2995" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getAlertBox -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.freecrm.TestCase.HomeTest@5a45133e]" started-at="2023-02-21T10:35:39 WAT" name="teardown" finished-at="2023-02-21T10:35:41 WAT" duration-ms="1364" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- com.freecrm.TestCase.HomeTest -->
+    <test started-at="2023-02-28T13:47:00 WAT" name="Test" finished-at="2023-02-28T13:47:42 WAT" duration-ms="41155">
       <class name="com.freecrm.TestCase.LoginTest">
-        <test-method is-config="true" signature="beforeAnnyTest()[pri:0, instance:com.freecrm.TestCase.LoginTest@434a63ab]" started-at="2023-02-21T10:33:56 WAT" name="beforeAnnyTest" finished-at="2023-02-21T10:34:19 WAT" duration-ms="23586" status="PASS">
+        <test-method is-config="true" signature="beforeAnnyTest()[pri:0, instance:com.freecrm.TestCase.LoginTest@5a56cdac]" started-at="2023-02-28T13:47:00 WAT" name="beforeAnnyTest" finished-at="2023-02-28T13:47:12 WAT" duration-ms="11744" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeAnnyTest -->
-        <test-method signature="url()[pri:1, instance:com.freecrm.TestCase.LoginTest@434a63ab]" started-at="2023-02-21T10:34:19 WAT" name="url" finished-at="2023-02-21T10:34:19 WAT" duration-ms="24" status="PASS">
+        <test-method signature="url()[pri:1, instance:com.freecrm.TestCase.LoginTest@5a56cdac]" started-at="2023-02-28T13:47:12 WAT" name="url" finished-at="2023-02-28T13:47:12 WAT" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- url -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.TestCase.LoginTest@434a63ab]" started-at="2023-02-21T10:34:19 WAT" name="tearDown" finished-at="2023-02-21T10:34:20 WAT" duration-ms="688" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.TestCase.LoginTest@5a56cdac]" started-at="2023-02-28T13:47:12 WAT" name="tearDown" finished-at="2023-02-28T13:47:13 WAT" duration-ms="735" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="beforeAnnyTest()[pri:0, instance:com.freecrm.TestCase.LoginTest@434a63ab]" started-at="2023-02-21T10:34:20 WAT" name="beforeAnnyTest" finished-at="2023-02-21T10:34:28 WAT" duration-ms="8307" status="PASS">
+        <test-method is-config="true" signature="beforeAnnyTest()[pri:0, instance:com.freecrm.TestCase.LoginTest@5a56cdac]" started-at="2023-02-28T13:47:13 WAT" name="beforeAnnyTest" finished-at="2023-02-28T13:47:21 WAT" duration-ms="8547" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeAnnyTest -->
-        <test-method signature="Image()[pri:2, instance:com.freecrm.TestCase.LoginTest@434a63ab]" started-at="2023-02-21T10:34:28 WAT" name="Image" finished-at="2023-02-21T10:34:29 WAT" duration-ms="709" status="PASS">
+        <test-method signature="Image()[pri:2, instance:com.freecrm.TestCase.LoginTest@5a56cdac]" started-at="2023-02-28T13:47:21 WAT" name="Image" finished-at="2023-02-28T13:47:22 WAT" duration-ms="653" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Image -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.TestCase.LoginTest@434a63ab]" started-at="2023-02-21T10:34:29 WAT" name="tearDown" finished-at="2023-02-21T10:34:30 WAT" duration-ms="656" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.TestCase.LoginTest@5a56cdac]" started-at="2023-02-28T13:47:22 WAT" name="tearDown" finished-at="2023-02-28T13:47:23 WAT" duration-ms="723" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="beforeAnnyTest()[pri:0, instance:com.freecrm.TestCase.LoginTest@434a63ab]" started-at="2023-02-21T10:34:30 WAT" name="beforeAnnyTest" finished-at="2023-02-21T10:34:39 WAT" duration-ms="9262" status="PASS">
+        <test-method is-config="true" signature="beforeAnnyTest()[pri:0, instance:com.freecrm.TestCase.LoginTest@5a56cdac]" started-at="2023-02-28T13:47:23 WAT" name="beforeAnnyTest" finished-at="2023-02-28T13:47:31 WAT" duration-ms="8485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeAnnyTest -->
-        <test-method signature="LogIn()[pri:3, instance:com.freecrm.TestCase.LoginTest@434a63ab]" started-at="2023-02-21T10:34:39 WAT" name="LogIn" finished-at="2023-02-21T10:34:49 WAT" duration-ms="9865" status="PASS">
+        <test-method signature="LogIn()[pri:3, instance:com.freecrm.TestCase.LoginTest@5a56cdac]" started-at="2023-02-28T13:47:31 WAT" name="LogIn" finished-at="2023-02-28T13:47:41 WAT" duration-ms="9500" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogIn -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.TestCase.LoginTest@434a63ab]" started-at="2023-02-21T10:34:49 WAT" name="tearDown" finished-at="2023-02-21T10:34:49 WAT" duration-ms="688" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.TestCase.LoginTest@5a56cdac]" started-at="2023-02-28T13:47:41 WAT" name="tearDown" finished-at="2023-02-28T13:47:42 WAT" duration-ms="702" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

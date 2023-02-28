@@ -1,0 +1,6 @@
+com\freecrm\TestCase\HomeTest.class
+com\freecrm\BaseTest\Base.class
+com\freecrm\PageObject\HomePage.class
+com\freecrm\TestCase\Exercice.class
+com\freecrm\PageObject\LoginPage.class
+com\freecrm\TestCase\LoginTest.class
